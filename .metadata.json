@@ -1,0 +1,10 @@
+[
+  {
+    "package": "pavo",
+    "oncran": true
+  },
+  {
+    "package": "lightr",
+    "oncran": true
+  }
+]

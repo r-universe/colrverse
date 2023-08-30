@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/colrverse/universe
 	branch = HEAD
-[submodule "pavo"]
-	path = pavo
-	url = https://github.com/rmaia/pavo
 [submodule "lightr"]
 	path = lightr
 	url = https://github.com/ropensci/lightr
+[submodule "pavo"]
+	path = pavo
+	url = https://github.com/rmaia/pavo

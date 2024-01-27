@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/colrverse/universe
+	url = https://github.com/colrverse/colrverse.r-universe.dev
 	branch = HEAD
 [submodule "lightr"]
 	path = lightr
